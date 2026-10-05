@@ -1,0 +1,15 @@
+Como um especialista em nuvem azure, explique de forma didática sobre:
+
+- Cloud shell da Azure: overview, opções PowerShell e Bash, barra de botões, comando help;
+
+- Azure Arc;
+
+- Azure Resource Manager;
+
+- Infraestrutura como código;
+
+- Modelos do ARM (Azure Resource Manager);
+
+- Bicep;
+
+Todo o conteúdo deve ser criado em formato readme.md
